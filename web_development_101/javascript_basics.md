@@ -33,6 +33,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 
 * Add your solution below this line!
 * [richjdsmith's solutions to Problems 1](https://github.com/richjdsmith/projectEuler_with_js)
+* [TLWNL's solutions to Problems 1 & 2] (https://github.com/TLWNL/TOP-ex1-2)
 * [jgwould's solutions to Problems 1 & 2](https://github.com/jgwould/javascript-basics)
 * [ugitch's solutions](https://github.com/ugitch/project_euler) | [View in Browser](https://ugitch.github.io/project_euler)
 * [sofiegraham's solution to Problems 1, 2 & 3](https://github.com/sofiegraham/odin/tree/master/web101/javascript-basics)
